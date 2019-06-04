@@ -1,8 +1,6 @@
 // Code your solution in this file!
-cosnt returnFirstTwoDrivers = function (array) {
+function returnFirstTwoDrivers(array) {
   const temp = function () {
-    const temp2 = array.slice(0, 2);
-    console.log(array);
-    return temp2;
+    return array.slice(0, 2);
   }
 }
