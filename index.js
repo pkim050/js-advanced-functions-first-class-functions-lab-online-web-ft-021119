@@ -10,3 +10,4 @@ const returnLastTwoDrivers = function(array) {
 let selectingDrivers = ["", ""];
 selectingDrivers[0] = returnFirstTwoDrivers(array);
 selectingDrivers[1] = returnLastTwoDrivers(array);
+selectingDrivers;
