@@ -2,4 +2,4 @@
 function returnFirstTwoDrivers(array) {
   const temp = array.slice(0, 2);
   return temp;
-};
+}();
