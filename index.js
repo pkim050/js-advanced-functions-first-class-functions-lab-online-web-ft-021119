@@ -22,3 +22,7 @@ const fareDoubler = function(number) {
 const fareTripler = function(number) {
   return number *= 3;
 };
+
+const fetchSpecifiedDrivers = function(array, fn) {
+  return fn(array);
+};
