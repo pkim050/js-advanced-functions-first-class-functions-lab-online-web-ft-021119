@@ -2,4 +2,4 @@
 function returnFirstTwoDrivers(array) {
   return const temp = function() {
     return 1;
-};
+}
