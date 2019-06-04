@@ -9,7 +9,7 @@ const returnLastTwoDrivers = function(array) {
 
 const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 
-const temp = function(number) {
+function(number) {
   return createFareMultiplier (number) {
     return number *= number;
   };
